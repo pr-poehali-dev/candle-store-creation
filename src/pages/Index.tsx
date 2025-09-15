@@ -109,7 +109,7 @@ export default function Index() {
                 <Icon name="Flame" size={24} className="text-accent" />
               </div>
               <h3 className="font-serif text-xl font-semibold">Натуральные материалы</h3>
-              <p className="text-muted-foreground">Только соевый воск и натуральные эфирные масла</p>
+              <p className="text-muted-foreground">Только кокосовый воск и натуральные эфирные масла</p>
             </div>
             <div className="space-y-4">
               <div className="w-16 h-16 bg-accent/20 rounded-full flex items-center justify-center mx-auto">
@@ -189,7 +189,7 @@ export default function Index() {
                 </p>
                 <p>
                   Каждая свеча создается вручную с использованием только натуральных материалов: 
-                  соевого воска, хлопковых фитилей и чистых эфирных масел.
+                  кокосового воска, хлопковых фитилей и чистых эфирных масел.
                 </p>
                 <p>
                   Я верю, что аромат может изменить настроение и создать особую атмосферу в доме.
@@ -220,7 +220,7 @@ export default function Index() {
                 <span className="font-serif text-2xl font-bold text-primary">1</span>
               </div>
               <h3 className="font-serif text-lg font-semibold">Подготовка воска</h3>
-              <p className="text-muted-foreground text-sm">Плавим натуральный соевый воск при оптимальной температуре</p>
+              <p className="text-muted-foreground text-sm">Плавим натуральный кокосовый воск при оптимальной температуре</p>
             </div>
             <div className="text-center space-y-4">
               <div className="w-20 h-20 bg-primary/10 rounded-full flex items-center justify-center mx-auto">
